@@ -82,3 +82,18 @@ Disciplina: Propagação de Ondas Eletromagnéticas
 
 ## Imagens
 
+![Tela Inicial](imgs/TelaIncial.png)
+
+![Calculadora](imgs/Calculadora.png)
+
+### Cálculo da Potência
+![Potência Minima](imgs/PotenciaMinima.png)
+
+### Cálculo da Sensibildade
+![Sensibilidade Necessaria](imgs/SensibildadeNecessaria.png)
+
+### Cálculo da Distância
+![Distancia](imgs/Distancia.png)
+
+### Erro na digitação dos valores
+![Erro na entrada dos valores](imgs/Erro.png)
