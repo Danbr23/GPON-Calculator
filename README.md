@@ -43,7 +43,7 @@ Além disso, é necessário informar dois dos três parâmetros mencionados acim
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-gpon.git
+git clone https://github.com/Danbr23/GPON-Calculator.git
 ```
 
 2. Abra o projeto na sua IDE de preferência (IntelliJ IDEA, Eclipse, NetBeans, etc.).
